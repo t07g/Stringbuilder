@@ -11,7 +11,7 @@ public class Main{
         sb.setCharAt(0,'p');
         System.out.println(sb);
 
-<<<<<<< HEAD
+
         //insert
         sb.insert(2,'n');
         System.out.println(sb);
@@ -25,7 +25,6 @@ public class Main{
         System.out.println(sb);
 
 
-=======
->>>>>>> ed6e8c6ed598d6685b828e301c5532d69302aa11
+
     }
 }
